@@ -1,1 +1,1 @@
-# Nash_3_MethodsMadness
+# Nash_3_GuessingGame
